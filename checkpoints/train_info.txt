@@ -1,0 +1,145 @@
+params: epochs = 50, batch_size:256 
+epoch:1  valid loss:1.8981  valid_accuracy:0.4776
+params: epochs = 50, batch_size:256 
+epoch:2  valid loss:1.8626  valid_accuracy:0.4961
+params: epochs = 50, batch_size:256 
+epoch:3  valid loss:1.7641  valid_accuracy:0.5010
+params: epochs = 50, batch_size:256 
+epoch:4  valid loss:1.7140  valid_accuracy:0.5075
+params: epochs = 50, batch_size:256 
+epoch:5  valid loss:1.7345  valid_accuracy:0.5142
+params: epochs = 50, batch_size:256 
+epoch:6  valid loss:1.6415  valid_accuracy:0.5295
+params: epochs = 50, batch_size:256 
+epoch:7  valid loss:1.6330  valid_accuracy:0.5277
+params: epochs = 50, batch_size:256 
+epoch:8  valid loss:1.6083  valid_accuracy:0.5238
+params: epochs = 50, batch_size:256 
+epoch:9  valid loss:1.6158  valid_accuracy:0.5317
+params: epochs = 50, batch_size:256 
+epoch:10  valid loss:1.5498  valid_accuracy:0.5387
+params: epochs = 50, batch_size:256 
+epoch:11  valid loss:1.5756  valid_accuracy:0.5443
+params: epochs = 50, batch_size:256 
+epoch:12  valid loss:1.5262  valid_accuracy:0.5474
+params: epochs = 50, batch_size:256 
+epoch:13  valid loss:1.5208  valid_accuracy:0.5526
+params: epochs = 50, batch_size:256 
+epoch:14  valid loss:1.5339  valid_accuracy:0.5498
+params: epochs = 50, batch_size:256 
+epoch:15  valid loss:1.5216  valid_accuracy:0.5491
+params: epochs = 50, batch_size:256 
+epoch:16  valid loss:1.5179  valid_accuracy:0.5516
+params: epochs = 50, batch_size:256 
+epoch:17  valid loss:1.5249  valid_accuracy:0.5504
+params: epochs = 50, batch_size:256 
+epoch:18  valid loss:1.5540  valid_accuracy:0.5468
+params: epochs = 50, batch_size:256 
+epoch:19  valid loss:1.5013  valid_accuracy:0.5530
+params: epochs = 50, batch_size:256 
+epoch:20  valid loss:1.5394  valid_accuracy:0.5481
+params: epochs = 50, batch_size:256 
+epoch:21  valid loss:1.4965  valid_accuracy:0.5559
+params: epochs = 50, batch_size:256 
+epoch:22  valid loss:1.4981  valid_accuracy:0.5552
+params: epochs = 50, batch_size:256 
+epoch:23  valid loss:1.5247  valid_accuracy:0.5497
+params: epochs = 50, batch_size:256 
+epoch:24  valid loss:1.5066  valid_accuracy:0.5541
+params: epochs = 50, batch_size:256 
+epoch:25  valid loss:1.5099  valid_accuracy:0.5516
+params: epochs = 50, batch_size:256 
+epoch:26  valid loss:1.4892  valid_accuracy:0.5548
+params: epochs = 50, batch_size:256 
+epoch:27  valid loss:1.5128  valid_accuracy:0.5546
+params: epochs = 50, batch_size:256 
+epoch:28  valid loss:1.5036  valid_accuracy:0.5548
+params: epochs = 50, batch_size:256 
+epoch:29  valid loss:1.5073  valid_accuracy:0.5518
+params: epochs = 50, batch_size:256 
+epoch:30  valid loss:1.5103  valid_accuracy:0.5542
+params: epochs = 50, batch_size:256 
+epoch:31  valid loss:1.5263  valid_accuracy:0.5536
+
+--------------------------------------------------
+
+params: epochs = 50, batch_size:256 
+epoch:1  valid loss:730.9436  valid_accuracy:0.7888
+params: epochs = 50, batch_size:256 
+epoch:2  valid loss:0.2193  valid_accuracy:0.9316
+params: epochs = 50, batch_size:256 
+epoch:3  valid loss:0.1705  valid_accuracy:0.9531
+params: epochs = 50, batch_size:256 
+epoch:4  valid loss:0.1108  valid_accuracy:0.9658
+params: epochs = 50, batch_size:256 
+epoch:5  valid loss:0.0962  valid_accuracy:0.9706
+params: epochs = 50, batch_size:256 
+epoch:6  valid loss:0.0878  valid_accuracy:0.9734
+params: epochs = 50, batch_size:256 
+epoch:7  valid loss:0.0810  valid_accuracy:0.9752
+params: epochs = 50, batch_size:256 
+epoch:8  valid loss:0.0677  valid_accuracy:0.9792
+params: epochs = 50, batch_size:256 
+epoch:9  valid loss:0.0602  valid_accuracy:0.9811
+params: epochs = 50, batch_size:256 
+epoch:32  valid loss:1.5032  valid_accuracy:0.5540
+params: epochs = 50, batch_size:256 
+epoch:10  valid loss:0.0583  valid_accuracy:0.9818
+params: epochs = 50, batch_size:256 
+epoch:11  valid loss:0.0571  valid_accuracy:0.9829
+params: epochs = 50, batch_size:256 
+epoch:12  valid loss:0.0514  valid_accuracy:0.9846
+params: epochs = 50, batch_size:256 
+epoch:13  valid loss:0.0467  valid_accuracy:0.9860
+params: epochs = 50, batch_size:256 
+epoch:14  valid loss:0.0451  valid_accuracy:0.9866
+params: epochs = 50, batch_size:256 
+epoch:15  valid loss:0.0400  valid_accuracy:0.9884
+params: epochs = 50, batch_size:256 
+epoch:16  valid loss:0.0414  valid_accuracy:0.9877
+params: epochs = 50, batch_size:256 
+epoch:17  valid loss:0.0407  valid_accuracy:0.9880
+params: epochs = 50, batch_size:256 
+epoch:18  valid loss:0.0405  valid_accuracy:0.9881
+params: epochs = 50, batch_size:256 
+epoch:19  valid loss:0.0401  valid_accuracy:0.9882
+params: epochs = 50, batch_size:256 
+epoch:20  valid loss:0.0387  valid_accuracy:0.9886
+params: epochs = 50, batch_size:256 
+epoch:21  valid loss:0.0379  valid_accuracy:0.9888
+params: epochs = 50, batch_size:256 
+epoch:22  valid loss:0.0363  valid_accuracy:0.9890
+params: epochs = 50, batch_size:256 
+epoch:23  valid loss:0.0353  valid_accuracy:0.9894
+params: epochs = 50, batch_size:256 
+epoch:24  valid loss:0.0371  valid_accuracy:0.9894
+params: epochs = 50, batch_size:256 
+epoch:25  valid loss:0.0372  valid_accuracy:0.9893
+params: epochs = 50, batch_size:256 
+epoch:26  valid loss:0.0349  valid_accuracy:0.9893
+params: epochs = 50, batch_size:256 
+epoch:27  valid loss:0.0359  valid_accuracy:0.9895
+params: epochs = 50, batch_size:256 
+epoch:28  valid loss:0.0337  valid_accuracy:0.9900
+params: epochs = 50, batch_size:256 
+epoch:29  valid loss:0.0363  valid_accuracy:0.9897
+params: epochs = 50, batch_size:256 
+epoch:30  valid loss:0.0366  valid_accuracy:0.9897
+params: epochs = 50, batch_size:256 
+epoch:31  valid loss:0.0360  valid_accuracy:0.9897
+params: epochs = 50, batch_size:256 
+epoch:32  valid loss:0.0355  valid_accuracy:0.9894
+params: epochs = 50, batch_size:256 
+epoch:33  valid loss:0.0334  valid_accuracy:0.9900
+params: epochs = 50, batch_size:256 
+epoch:34  valid loss:0.0372  valid_accuracy:0.9892
+params: epochs = 50, batch_size:256 
+epoch:35  valid loss:0.0361  valid_accuracy:0.9894
+params: epochs = 50, batch_size:256 
+epoch:36  valid loss:0.0365  valid_accuracy:0.9897
+params: epochs = 50, batch_size:256 
+epoch:37  valid loss:0.0346  valid_accuracy:0.9894
+params: epochs = 50, batch_size:256 
+epoch:38  valid loss:0.0355  valid_accuracy:0.9895
+params: epochs = 50, batch_size:256 
+epoch:39  valid loss:0.0365  valid_accuracy:0.9895
